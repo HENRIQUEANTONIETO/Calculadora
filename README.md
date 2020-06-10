@@ -1,2 +1,2 @@
 # Calculadora
- Calculadora em JavaScript com design bootstrap. 
+ Calculadora em JavaScript com design css. 
