@@ -1,0 +1,58 @@
+body{
+    background-color: #D9D9D9;
+}
+
+#calc{
+    background-color: rgb(63, 57, 57);
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#res{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 1.8em;
+    text-align: right;
+    background-color: #E9ECEF ;
+       
+}
+
+#elementos{
+    padding: 25px 25px; 
+}
+
+#botoes{
+    margin: 25px 0;
+}
+
+button{
+    width: 55px;
+    height: 55px;
+    margin-bottom: 4px;
+    box-shadow: 3px 3px 3px black;
+    background-color: rgb(77, 70, 70);
+    border: black;
+    color: white;
+    font-size: 1.5em;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: rgb(131, 127, 127);
+}
+
+.largo{
+    width: 114px;
+}
+
+.compr{
+    height: 114px;
+    position: absolute;
+    margin-top: -59px;
+    margin-left: 4px;
+}
+
